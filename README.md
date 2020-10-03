@@ -1,7 +1,7 @@
-flutter completions for fish
+Flutter completions for fish
 ============================
 
-I am using fish instead of big IDE when working with flutter so this is quit useful.
+I use fish instead of big IDE when I work with flutter, so this is quite useful.
 
 ## Installation
 
@@ -13,4 +13,5 @@ fisher add jduchateau/fish-flutter-completions
 Otherwise, you could copy the file in your fish directory (typically in `~/.config/fish/completions`).
 
 ## Author
-Jakub Duchateau
+Copyright (c) 2020 Jakub Duchateau. \
+Distributed under MIT license.
