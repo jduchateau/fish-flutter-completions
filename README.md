@@ -4,6 +4,12 @@ This is simply the output of [qiuxiang/flutter-fish-completions](https://github.
 
 ## Installation
 
+> **Note**
+> New version of [qiuxiang/flutter-fish-completions](https://github.com/qiuxiang/flutter-fish-completions) support fisher so you can install it with
+> ```fish
+> fisher install qiuxiang/flutter-fish-completions
+> ```
+
 Install with [fisher](https://github.com/jorgebucaran/fisher) :
 
 ```fish
